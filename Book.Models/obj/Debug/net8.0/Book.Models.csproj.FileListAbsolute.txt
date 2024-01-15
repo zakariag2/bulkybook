@@ -1,0 +1,33 @@
+C:\Users\Zakaria\source\repos\Book\Book.Models\bin\Debug\net8.0\Book.Models.deps.json
+C:\Users\Zakaria\source\repos\Book\Book.Models\bin\Debug\net8.0\Book.Models.dll
+C:\Users\Zakaria\source\repos\Book\Book.Models\bin\Debug\net8.0\Book.Models.pdb
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\Book.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\Book.Models.AssemblyInfoInputs.cache
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\Book.Models.AssemblyInfo.cs
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\Book.Models.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\Book.Models.dll
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\refint\Book.Models.dll
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\Book.Models.pdb
+C:\Users\Zakaria\source\repos\Book\Book.Models\obj\Debug\net8.0\ref\Book.Models.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\bin\Debug\net8.0\Book.Models.deps.json
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\bin\Debug\net8.0\Book.Models.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\bin\Debug\net8.0\Book.Models.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.AssemblyInfoInputs.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.AssemblyInfo.cs
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\refint\Book.Models.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Models\obj\Debug\net8.0\ref\Book.Models.dll
+E:\FreeLance Projects\Book\Book\Book.Models\bin\Debug\net8.0\Book.Models.deps.json
+E:\FreeLance Projects\Book\Book\Book.Models\bin\Debug\net8.0\Book.Models.dll
+E:\FreeLance Projects\Book\Book\Book.Models\bin\Debug\net8.0\Book.Models.pdb
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.AssemblyInfoInputs.cache
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.AssemblyInfo.cs
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.csproj.CoreCompileInputs.cache
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.dll
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\refint\Book.Models.dll
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\Book.Models.pdb
+E:\FreeLance Projects\Book\Book\Book.Models\obj\Debug\net8.0\ref\Book.Models.dll

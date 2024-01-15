@@ -1,0 +1,34 @@
+C:\Users\Zakaria\source\repos\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.deps.json
+C:\Users\Zakaria\source\repos\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.dll
+C:\Users\Zakaria\source\repos\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.pdb
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfoInputs.cache
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfo.cs
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.dll
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\refint\Book.Utility.dll
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.pdb
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\ref\Book.Utility.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.deps.json
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfoInputs.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfo.cs
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\refint\Book.Utility.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.Utility\obj\Debug\net8.0\ref\Book.Utility.dll
+E:\FreeLance Projects\Book\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.deps.json
+E:\FreeLance Projects\Book\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.dll
+E:\FreeLance Projects\Book\Book\Book.Utility\bin\Debug\net8.0\Book.Utility.pdb
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfoInputs.cache
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfo.cs
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.CoreCompileInputs.cache
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.dll
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\refint\Book.Utility.dll
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.pdb
+E:\FreeLance Projects\Book\Book\Book.Utility\obj\Debug\net8.0\ref\Book.Utility.dll
+C:\Users\Zakaria\source\repos\Book\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.AssemblyReference.cache

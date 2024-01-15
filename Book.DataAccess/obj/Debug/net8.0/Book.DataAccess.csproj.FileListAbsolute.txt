@@ -1,0 +1,57 @@
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfo.cs
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.deps.json
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.runtimeconfig.json
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.dll
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.pdb
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.Models.dll
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.Utility.dll
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.Models.pdb
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\bin\Debug\net8.0\Book.Utility.pdb
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CopyComplete
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.dll
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\refint\Book.DataAccess.dll
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.pdb
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.genruntimeconfig.cache
+C:\Users\Zakaria\source\repos\Book\Book.DataAccess\obj\Debug\net8.0\ref\Book.DataAccess.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.deps.json
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.runtimeconfig.json
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Models.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Utility.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Models.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Utility.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfo.cs
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CopyComplete
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\refint\Book.DataAccess.dll
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.pdb
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.genruntimeconfig.cache
+C:\Users\DELL PRECISION 7510\Downloads\Compressed\Book\Book\Book.DataAccess\obj\Debug\net8.0\ref\Book.DataAccess.dll
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.deps.json
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.runtimeconfig.json
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.dll
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.DataAccess.pdb
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Models.dll
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Utility.dll
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Models.pdb
+E:\FreeLance Projects\Book\Book\Book.DataAccess\bin\Debug\net8.0\Book.Utility.pdb
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.AssemblyReference.cache
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfoInputs.cache
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.AssemblyInfo.cs
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CoreCompileInputs.cache
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.csproj.CopyComplete
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.dll
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\refint\Book.DataAccess.dll
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.pdb
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\Book.DataAccess.genruntimeconfig.cache
+E:\FreeLance Projects\Book\Book\Book.DataAccess\obj\Debug\net8.0\ref\Book.DataAccess.dll
